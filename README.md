@@ -1,5 +1,5 @@
-#JAVA
-##Useful things
+# JAVA
+## Useful things
 Suggested ide: Intellij Idea (has free option) <br>
 Suggested Intellij plugins: <br>
 <ol>
