@@ -1,5 +1,7 @@
 # JAVA
-## Useful things
+<a href="#useful-things">Useful Things</a>
+
+<h2 id="useful-things">Useful Things</h2>
 Suggested ide: Intellij Idea (has free option) <br>
 Suggested Intellij plugins: <br>
 <ol>
