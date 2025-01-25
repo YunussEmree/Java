@@ -2,7 +2,7 @@
 <a href="#useful-things">Useful Things</a>
 
 <h2 id="useful-things">Useful Things</h2>
-Suggested ide: <strong>Intellij Idea</strong> (has free option)<br>
+Suggested ide: <strong>Intellij Idea</strong> (has free option)<br><br>
 Suggested Intellij plugins: <br>
 <ol>
   <li>GitHub by JetBrains</li>
