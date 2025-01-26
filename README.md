@@ -1,6 +1,6 @@
 # JAVA
-<a href="#useful-things">Useful Things</a>
-<a href="#spring-boot">Spring Boot</a>
+<p><a href="#useful-things">Useful Things</a></p>
+<p><a href="#spring-boot">Spring Boot</a></p>
 
 <h2 id="useful-things">Useful Things</h2>
 Suggested ide: <strong>Intellij Idea</strong> (has free option)<br><br>
