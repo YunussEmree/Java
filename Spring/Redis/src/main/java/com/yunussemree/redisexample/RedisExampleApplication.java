@@ -1,13 +1,13 @@
-package com.YunussEmree.ConstructionsLayers;
+package com.yunussemree.redisexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConstructionsLayersApplication {
+public class RedisExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConstructionsLayersApplication.class, args);
+		SpringApplication.run(RedisExampleApplication.class, args);
 	}
 
 }
