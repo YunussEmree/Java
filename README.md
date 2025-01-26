@@ -15,3 +15,4 @@ Suggested Intellij Idea plugins: <br>
 
 <h2 id="spring-boot">Spring Boot</h2>
 <p>You can create free spring boot projects in here: <a href="https://start.spring.io" target="_blank">Spring Initializer</a> </p>
+<p>If you newbie on java you can use these roadmaps in sort: <a href="https://roadmap.sh/java">Java</a> <a href="https://roadmap.sh/spring-boot">Spring Boot</a> <a href="https://roadmap.sh/backend">Backend</a></p>
