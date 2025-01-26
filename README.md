@@ -13,4 +13,4 @@ Suggested Intellij Idea plugins: <br>
 </ol>
 
 <h2 id="Spring Boot">Spring Boot</h2>
-<p>You can create free spring boot projects in here: <a href="start.spring.io">Spring Initializer</a> </p>
+<p>You can create free spring boot projects in here: <a href="https://start.spring.io">Spring Initializer</a> </p>
