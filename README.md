@@ -21,20 +21,20 @@
 <h4>4. Data Management</h4>
 <p>Spring Data JPA: ORM, Entity, Repository</p>
 <p>Database Connections: Work with Like These Databases H2, MySQL, PostgreSQL</p>
-<p>CRUD İşlemleri: Create, Read, Update, Delete operasyonları</p>
+<p>CRUD Opertaions: Create, Read, Update, Delete Operations</p>
 <br>
 <h4>5. Web Services with Spring Boot</h4>
 <p>Spring MVC: Model-View-Controller Structure</p>
 <p>Thymeleaf: Create Reactive HTML Pages with Thymeleaf</p>
-<p>Form Handling: Processing and Validation Form Datas</p>
+<p>Form Handling: Processing and Validation for Form Datas</p>
 <br>
 <h4>6. Security</h4>
 <p>Spring Security: Authentication and Authorization</p>
 <p>JWT (JSON Web Tokens): Authentication with JWT Token</p>
-<p>OAuth2: OAuth2 protocol abd Spring Security entegration</p>
+<p>OAuth2: OAuth2 Protocol and Spring Security Entegration</p>
 <br>
 <h4>7. Test</h4>
-<p>Unit Test: Write Unit Testes with JUnit ve Mockito</p>
+<p>Unit Test: Write Unit Testes with JUnit and Mockito</p>
 <p>Integration Test: Write Wour Own Entegration Test with Spring Boot Test</p>
 <p>Test Containers: Manage Your Database Dependency with Test Containers</p>
 <br>
@@ -46,8 +46,8 @@
 <p>Circuit Breaker: Resilience4j</p>
 <br>
 <h4>9. Messaging Systems</h4>
-<p>RabbitMQ: Mesaj kuyruğu kullanımı ve Spring AMQP entegrasyonu.</p>
-<p>Kafka: Apache Kafka kullanımı ve Spring Kafka entegrasyonu.</p>
+<p>RabbitMQ: Usage of RabbitMQ and Spring AMQP Integration</p>
+<p>Kafka: Usage of Kafka and Spring Kafka Integration</p>
 <br>
 <h4>10. Performance and Visualization</h4>
 <p>Caching: Spring Cache, Redis</p>
