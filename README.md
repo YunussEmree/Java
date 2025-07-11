@@ -65,3 +65,21 @@
 <p>GraphQL: GraphQL and Spring Boot Integration</p>
 <p>WebSockets: WebSocket for Real Time Apps</p>
 Serverless: AWS Lambda ve Spring Cloud Function kullanımı.
+
+<br>
+<h4>Learning Path Guidance</h4>
+<p>
+Start with the <b>Java Basics</b> section to build a strong foundation in core Java concepts. Progress through each topic in order, as later sections often build on earlier ones. Practice by running and modifying the example projects provided in each folder. For Spring Boot and advanced topics, ensure you are comfortable with Java OOP principles first. Use the <b>Spring Boot</b> and <b>OOP examples</b> folders to deepen your understanding with hands-on practice. Refer to the <b>References/Resources</b> section for additional learning materials and documentation.
+</p>
+<br>
+<h4>References/Resources</h4>
+<ul>
+  <li><a href="https://docs.oracle.com/javase/tutorial/">Official Java Tutorials</a></li>
+  <li><a href="https://spring.io/guides">Spring Guides</a></li>
+  <li><a href="https://www.baeldung.com/">Baeldung (Java & Spring Tutorials)</a></li>
+  <li><a href="https://www.geeksforgeeks.org/java/">GeeksforGeeks Java</a></li>
+  <li><a href="https://www.jetbrains.com/idea/guide/tutorials/java/">JetBrains Java Guide</a></li>
+  <li><a href="https://www.udemy.com/topic/java/">Udemy Java Courses</a></li>
+  <li><a href="https://www.youtube.com/user/thenewboston">thenewboston (YouTube Java Tutorials)</a></li>
+  <li><a href="https://www.springcloud.io/">Spring Cloud Tutorials</a></li>
+</ul>
