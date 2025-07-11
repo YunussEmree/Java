@@ -1,0 +1,16 @@
+type Book { # GraphQL type definition
+    id: ID!
+    title: String!
+    author: String!
+}
+
+type Query { # GraphQL query type definition
+    books: [Book!]! # ! means non-nullable
+    bookById(id: ID!): Book
+}
+
+type Mutation { # GraphQL mutation type definition
+    createBook(title: String!, author: String!): Book!
+    updateBook(id: ID!, title: String, author: String): Book
+    deleteBook(id: ID!): Boolean!
+}

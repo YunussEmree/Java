@@ -1,0 +1,14 @@
+###
+GRAPHQL http://localhost:8080/graphql
+
+mutation  createBook($title: String!, $author: String!) {
+    createBook(title: $title, author: $author) {
+        author
+        title
+    }
+}
+
+{
+  "title": "testTitle",
+  "author": "testAuthor"
+}
